@@ -1,0 +1,26 @@
+Dear Stas,
+
+
+We hope this message finds you well. As part of our evaluation process for the QA Automation Engineer at Platinumlist, we would like to assign you a test task.
+Task Description:
+
+
+
+1. Open https://laperle.platinumlist.net/ , check that page has logo, currency and language selector and button next is not visible
+
+2. Choose date October 10, time 18-30, click any available select and select seat. (Or any other available date) -> hall map is open. 
+Check that header has info about chosen date.
+
+3. Click any available seat (green one). Choose any available offer and click Submit. Check that chosen seat marked blue and button Next can be clicked.
+
+4. Click Next. Fill in email, full name, phone and country. Click Next. Check that order details page contains info about chosen seat, 
+date of show, text “ticket delivery method”, section “summary”.
+
+
+
+Note: scenario is not 100% strict. Additional verifications can be added.
+If you have any questions or need further clarification regarding the task, feel free to reach out to us.
+Please try to complete the task before 02.08
+We appreciate your time and effort in completing this test task and look forward to meeting you again.
+
+Good luck!
