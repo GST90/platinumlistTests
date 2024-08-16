@@ -3,7 +3,7 @@ const PlatinumlistLocators = {
     languageSwitcherLocator: '.language-switcher-modern__desktop',
     languageSwitcherListLocator: '.language-switcher-modern__list',
     currencySwitcherLocator: '.currency-switcher-modern__desktop',
-    nextButtonLocator: '.smart-footer__checkout-btn',
+    nextButtonLocator: '.smart-footer-next-button',
 
     calendarLocator: '.event-calendar',
     availableDayLocator: '.event-calendar-day-available',
